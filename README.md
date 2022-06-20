@@ -1,1 +1,1 @@
-*This is my first repo created with a VM*
+*This is my first repo using a VM*
